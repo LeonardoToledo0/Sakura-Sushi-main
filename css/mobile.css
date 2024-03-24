@@ -35,6 +35,10 @@
     max-width: 100% !important;
     margin: 0 auto !important;
   }
+  .menu-container {
+    width: 92% !important;
+    gap: 10px !important;
+  }
   .sobre-faixa {
     height: 300px !important;
     margin-top: -250px !important;

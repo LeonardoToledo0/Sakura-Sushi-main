@@ -465,8 +465,8 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 92%;
-  gap: 10px;
+  width: 50%;
+  gap: 30px;
 }
 
 .menu-card {
