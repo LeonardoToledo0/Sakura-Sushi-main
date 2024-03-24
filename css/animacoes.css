@@ -1,0 +1,27 @@
+/* -----Animação Sobre---- */
+.animate__backInDown {
+  display: block;
+  margin: 0 0.5rem;
+  animation-duration: 3s;
+  animation-delay: 0s;
+}
+.animate__backInUp {
+  display: block;
+  margin: 0 0.5rem;
+  animation-duration: 3s;
+  animation-delay: 0s;
+}
+/* -----Animaçao Menu----- */
+.animate__backInUp {
+  display: block;
+  margin: 0 0.5rem;
+}
+/* -----Animacao Chef */
+.animate__backInUp {
+  display: block;
+  margin: 0 0.5rem;
+}
+.animate__backInDown {
+  display: block;
+  margin: 0 0.5rem;
+}

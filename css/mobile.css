@@ -1,0 +1,205 @@
+/* ###################### */
+/* ##### 601 ate 900 ####*/
+/* ###################### */
+
+@media (max-width: 900px) {
+  body {
+    box-sizing: border-box !important ;
+    margin: 0 auto !important;
+    padding: 0 auto !important;
+    left: 0 !important;
+    right: 0 !important;
+    overflow-x: hidden !important;
+  }
+  header {
+    max-width: 100% !important;
+  }
+  .menu-header {
+    width: 90% !important;
+    justify-content: space-around !important;
+  }
+  .lista-menu ul li a {
+    font-size: 1.5rem !important;
+  }
+  .tema {
+    margin-right: 20px !important;
+  }
+  .logo img {
+    margin-top: 10px;
+  }
+
+  .sobre-titulo,
+  .sobre-content,
+  .funcionamento,
+  .menu-container {
+    max-width: 100% !important;
+    margin: 0 auto !important;
+  }
+  .sobre-faixa {
+    height: 300px !important;
+    margin-top: -250px !important;
+  }
+
+  .sobre-texto p {
+    font-size: 1rem !important;
+  }
+  .formulario-content {
+    width: 86% !important;
+  }
+
+  .funcionamento-horarios nav {
+    width: 80%;
+    margin-left: -20px;
+  }
+  .button-enviar button {
+    margin-left: 215px !important;
+  }
+  .ramo-direita {
+    margin-left: 48px !important;
+  }
+  .perfil-chef img {
+    width: 83% !important;
+    height: 83% !important;
+  }
+  .perfil-chef h2 {
+    margin-left: -45px !important;
+  }
+  .perfil-chef h3 {
+    margin-left: -25px !important;
+  }
+  .perfil1 {
+    margin-top: -200px !important;
+  }
+  .perfil2 {
+    margin-top: -100px !important;
+  }
+  #menu-fixo.menuFixo {
+    width: 100% !important;
+    margin: 0 auto;
+  }
+}
+
+/* Estilos para larguras de tela menores ou iguais a 600px */
+@media (max-width: 600px) {
+  body {
+    box-sizing: border-box !important ;
+    margin: 0 auto !important;
+    padding: 0 auto !important;
+    left: 0 !important;
+    right: 0 !important;
+    overflow-x: hidden !important;
+  }
+  header {
+    width: 100% !important;
+    margin: 0 auto !important;
+  }
+  .menu-header {
+    width: 100% !important;
+  }
+  .lista-menu {
+    display: none !important;
+  }
+  .banner {
+    display: none;
+  }
+  .ramo-direita,
+  .ramo-esquerda {
+    display: none;
+  }
+  .sobre-content {
+    flex-direction: column;
+    width: 98% !important;
+  }
+  .sobre-texto {
+    margin: 0 auto !important;
+    width: 100% !important;
+    margin-top: 150px !important;
+  }
+  .sobre-texto p,
+  .sobre-texto a {
+    color: #a73d3f !important;
+  }
+  .sobre-texto p {
+    margin-left: 20px;
+    width: 90% !important;
+  }
+  .sobre-texto img {
+    margin-left: 20px;
+    width: 90%;
+  }
+  .sobre-comida img {
+    width: 300px !important;
+  }
+  .rodape {
+    flex-direction: column-reverse !important;
+  }
+  .logo-footer {
+    width: 90% !important;
+  }
+  .lista-footer,
+  .lista-footer nav {
+    width: 90% !important;
+  }
+
+  .depoimentos-content div:nth-child(2) {
+    width: 98% !important;
+    height: auto !important;
+  }
+  .foto-depo {
+    width: 50% !important;
+  }
+
+  .depoimentos {
+    margin-top: 180px !important;
+  }
+  .formulario-content {
+    flex-direction: column-reverse !important;
+  }
+  .image-contato {
+    margin-left: -20px;
+    width: 90% !important;
+  }
+  .contato {
+    width: 98% !important;
+  }
+  .button-enviar button {
+    margin-left: 84px !important;
+  }
+  .menu-container {
+    flex-direction: column !important;
+  }
+  .perfil-chef {
+    flex-direction: column !important;
+  }
+  .perfil1 {
+    margin-top: 100px !important;
+  }
+  .perfil2 {
+    margin-top: 100px !important;
+  }
+  .funcionamento-horarios nav {
+    width: 100% !important;
+    margin-top: 150px !important;
+    margin-left: -100px !important;
+  }
+  .sobre-comida img {
+    margin-left: -90px;
+  }
+  .sobre-titulo h2 {
+    margin-bottom: 50px !important;
+  }
+  .background-perfil,
+  .parallax-image2,
+  .parallax-image {
+    display: none;
+  }
+  .menu-card {
+    margin-top: 150px;
+  }
+  .logo {
+    width: 20% !important;
+  }
+  .tema {
+    padding: 20px !important;
+  }
+}
